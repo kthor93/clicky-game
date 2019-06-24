@@ -1,0 +1,30 @@
+nav {
+    width: 100%;
+    font-size: 3rem;
+    color: #356BBB;
+    margin-bottom: 50px;
+    background-color: none;
+    height: auto;
+    font-family: 'Fredoka One', cursive;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 25%;
+}
+
+a {
+    color: #356BBB;
+}
+
+a:hover {
+    color: #356BBB;
+    text-decoration: none;
+}
+
