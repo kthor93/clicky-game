@@ -2,9 +2,9 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kthor93.github.io/clicky-game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "homepage": "https://kthor93.github.io/clicky-game/",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-flexbox-grid": "^2.1.2",

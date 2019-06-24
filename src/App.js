@@ -32,7 +32,7 @@ class App extends React.Component {
 
     if (updatedScore >= this.state.highScore) {
       this.setState({ highScore: updatedScore });
-    } else if (updatedScore === 10) {
+    } else if (updatedScore === 12) {
       this.setState({ message: "You Win!" });
     }
     this.handleShuffle();
